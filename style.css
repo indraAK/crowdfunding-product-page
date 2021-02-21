@@ -577,6 +577,10 @@ form .input-group {
    border-radius: 5rem;
 }
 
+form .input-group:hover {
+   border-color: var(--moderate-cyan);
+}
+
 form .input-group span {
    margin-right: 5px;
 }
