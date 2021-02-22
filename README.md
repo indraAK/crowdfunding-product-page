@@ -25,13 +25,6 @@ Your users should be able to:
 -  See the number of total backers increment by one after confirming a pledge
 -  Toggle whether or not the product is bookmarked
 
-<!-- Bahasa indo -->
-
--  Tentukan pilihan janji mana yang akan dibuat
--  Lihat bilah progress bar yang diperbarui dan total uang yang dikumpulkan berdasarkan total janji mereka setelah mengonfirmasi janji
--  Lihat jumlah total pendukung yang bertambah satu per satu setelah mengonfirmasi janji
--  Beralih apakah produk ditandai atau tidak
-
 Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
 
 ## Where to find everything
